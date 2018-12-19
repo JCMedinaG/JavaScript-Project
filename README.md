@@ -1,3 +1,10 @@
+https://jcmedinag.github.io/JavaScript-Project/
+
+
+
+
+
+
 # Unit 14 | Assignment - JavaScript and DOM Manipulation
 
 ## Background

@@ -185,7 +185,7 @@ ul #filters{
   table{
     /* background-color: #8d8d8d;  */
     border-style: groove; 
-    border-color: #618D1B; 
+    border-color:#1653f5;
   }
   /* media queries which will only be activated at specific screen sizes */
   @media (max-width: 800px) {

@@ -197,7 +197,7 @@ ul #filters{
   
 .table-striped > tbody > tr:nth-child(2n+1) > td, .table-striped > tbody > tr:nth-child(2n+1) > th {
    /* background-color: rgba(97, 141, 27, 0.322);  */
-   background-color: #1F2D09; 
+   background-color: #1653f5; 
 }
   
   @media (max-width: 500px) {
@@ -208,7 +208,7 @@ ul #filters{
     #table-area tr td:first-child {
       font-size: 1.8em;
       font-weight: bold;
-      background: #1b3146;
+      background: #1653f5;
     }
   
     #table-area tr td:last-child {

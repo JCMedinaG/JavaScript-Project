@@ -76,7 +76,7 @@
   
 div .panel{
   border-style: groove; 
-  border-color: #0e2de9 
+  border-color:#1653f5;
 }
 
 div .panel-heading{
@@ -111,7 +111,7 @@ ul #filters{
     display: block;
     width: 100%;
     padding: 8px;
-    color: #8e979f;
+    color: #1653f5;
     outline: none;
   }
   

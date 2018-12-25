@@ -43,7 +43,7 @@
   div .navbar{
     background-color: black !important; 
     border-bottom-style: groove; 
-    border-bottom-color: #618D1B; 
+    border-bottom-color: #1653f5; 
   }
   /* The wrapper contains all of the page's content besides the footer, which is pushed to the bottom of the page */
   .wrapper {
@@ -63,7 +63,7 @@
     background: #1b3146;
     background-color: black; 
     border-top-style: groove; 
-    border-top-color: #618D1B; 
+    border-top-color: #1653f5; 
     font-size: 2rem;
   }
    */
@@ -82,7 +82,7 @@ div .panel{
 div .panel-heading{
   background-color: black !important; 
   border-bottom-style: groove !important; 
-  border-bottom-color: #618D1B !important; 
+  border-bottom-color:#1653f5 !important; 
 }
 div .panel-body{
   background-color: black !important; 

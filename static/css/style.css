@@ -20,7 +20,7 @@
   }
 /* Make buttons more visible */
   .btn{
-    background-color: rgba(97, 141, 27, 0.322); 
+    background-color: rgba(8, 8, 254, 0.322); 
   }
 
   @keyframes bounce {

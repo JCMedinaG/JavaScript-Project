@@ -34,8 +34,8 @@
     bottom: 5px;
     left: 200px;
     width: 35px;
-    color: white;
-    animation: bounce 2s;
+    color: blue;
+    animation: bounce 1s;
     animation-direction: alternate;
     animation-timing-function: cubic-bezier(.5,0.05,1,.5);
     animation-iteration-count: infinite;

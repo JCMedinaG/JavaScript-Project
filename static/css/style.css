@@ -15,7 +15,7 @@
     height: 100%;
     padding: 0;
     margin: 0;
-    background-image: url(http://www.animateit.net/data/media/247/earth.gif); 
+    background-image: url("http://www.animateit.net/data/media/247/earth.gif"); 
     
   }
 /* Make buttons more visible */
@@ -140,7 +140,7 @@ ul #filters{
     padding: 20px;
     margin: 0;
     background: black;
-    background-image: url("../images/nasa.jpg");
+    background-image: url("http://www.animateit.net/data/media/199/ufo008.gif");
     background-attachment: fixed;
     background-position: bottom center;
     background-size: cover;

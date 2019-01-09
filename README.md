@@ -1,7 +1,7 @@
 https://jcmedinag.github.io/JavaScript-Project/
 
 
-
+# Use Google Chrome for a better experience
 
 
 

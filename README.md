@@ -1,11 +1,11 @@
-## https://jcmedinag.github.io/JavaScript-Project/
+
 
 
 # Use Google Chrome for a better experience
 
 
 
-# Unit 14 | Assignment - JavaScript and DOM Manipulation
+
 
 ## Background
 
@@ -41,12 +41,4 @@ You can handle this... right? The planet Earth needs to know what we have found!
   4. `country`
   5. `shape`
 
-- - -
 
-**Good luck!**
-
-- - -
-
-### Copyright
-
-Data Boot Camp © 2018. All Rights Reserved.
